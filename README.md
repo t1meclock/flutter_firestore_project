@@ -48,15 +48,22 @@
 ###
 ### Пример реализации регистрации пользователей. Также можно отменить действие, нажав по кнопке «Отменить» и после сотрутся все данные полей.
 ![image](https://user-images.githubusercontent.com/99389490/227344726-97809324-afa9-41d0-b397-7feceeb14f50.png)
+###
 ![image](https://user-images.githubusercontent.com/99389490/227344776-2d7bff91-d5ab-46d7-b2c2-583f0f93fd79.png)
+###
 ![image](https://user-images.githubusercontent.com/99389490/227344817-4afecfde-9c05-4695-b4bb-d38064a8ab4a.png)
 ###
 ### Код реализации редактирования пользователей, которые после будут отображаться в базе Firestore. 
 ![image](https://user-images.githubusercontent.com/99389490/227344934-55e6b315-6bb0-4d4d-952c-67afa421e0fc.png)
+###
 ![image](https://user-images.githubusercontent.com/99389490/227344975-284b91f5-4931-4087-af5e-1dabddd3d54b.png)
+###
 ![image](https://user-images.githubusercontent.com/99389490/227345018-1a05f109-4293-46a2-91a5-035e50f11b99.png)
+###
 ![image](https://user-images.githubusercontent.com/99389490/227345043-eb37a1db-3772-4399-a50b-f99da2d6f077.png)
+###
 ![image](https://user-images.githubusercontent.com/99389490/227345065-8c7d53e3-c4ed-426e-95ce-f7cf053156b6.png)
+###
 ![image](https://user-images.githubusercontent.com/99389490/227345085-754979c2-fe49-44ce-b3ec-2980c8883b0e.png)
 
 ### Вывод: В данной практической работе была произведена первичная работа с Firestore. Были реализованы функции: сохранение данных при регистрации пользователя в Firestore, редактирование данных пользователя, работа с данными CRUD, динамическое обновление данных.
